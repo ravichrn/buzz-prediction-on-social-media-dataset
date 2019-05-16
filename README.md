@@ -1,1 +1,1 @@
-# buzz-prediction-on-twitter-data
+# buzz-prediction-on-social-media-dataset
